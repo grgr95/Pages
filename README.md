@@ -1,1 +1,3 @@
-#Hello my name is Gregory Sumarokov
+#__Hello my name is Gregory Sumarokov__
+
+## *I study in Netology*
