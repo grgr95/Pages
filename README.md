@@ -1,8 +1,5 @@
-#__Hello my name is Gregory Sumarokov__
-<<<<<<< HEAD
-# *I study in Netology*
-<body>
-![photo](https://cloud.mail.ru/home/Фотки/23/IMG-20230113-WA0003.jpg)
-=======
-
+# __Hello my name is Gregory Sumarokov__
 ## *I study in Netology*
+### It's me :)
+
+![Рад приветствовать]("C:\Users\grgrs\Desktop\Pages\1.jfif")
